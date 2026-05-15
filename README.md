@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Iniciante`**
 
-Me chamo Antonio Paulo Melo Jr, tenho 26 anos e sou natural do Rio de Janeiro. Concluí o ensino médio na E.E.E.P Governador Waldemar Alcantara, com o curso técnico em Redes de Computadores. Sou fomrado em bacharelado em Sistemas de Informação pela Faculdade Fied Unita de Tiangua, Atualmente, estou cursando Pós-Graduação em Dev Java. Sou apaixonada por tecnologia já trabalho na parte de suporte tecnico em computadores, impressoras e redes de computadores.
+Me chamo Antonio Paulo Melo Jr, tenho 26 anos e sou natural do Rio de Janeiro. Concluío ensino médio na E.E.E.P Governador Waldemar Alcantara, com o curso técnico em Redes de Computadores. Sou fomrado em bacharelado em Sistemas de Informação pela Faculdade Fied Unita de Tiangua, Atualmente, estou cursando Pós-Graduação em Dev Java. Sou apaixonada por tecnologia já trabalho na parte de suporte tecnico em computadores, impressoras e redes de computadores.
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
@@ -65,8 +65,8 @@ Me chamo Antonio Paulo Melo Jr, tenho 26 anos e sou natural do Rio de Janeiro. C
 />
 <img 
     align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
+    alt="Java"
+    title="Java" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
@@ -81,14 +81,6 @@ Me chamo Antonio Paulo Melo Jr, tenho 26 anos e sou natural do Rio de Janeiro. C
 />
 <img 
     align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Bootstrap"
     title="Bootstrap" 
     width="30px" 
@@ -97,51 +89,11 @@ Me chamo Antonio Paulo Melo Jr, tenho 26 anos e sou natural do Rio de Janeiro. C
 />
 <img 
     align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
     alt="PHP" 
     title="PHP"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 <img 
     align="left" 
