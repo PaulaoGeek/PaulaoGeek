@@ -12,21 +12,21 @@ Me chamo Antonio Paulo Melo Jr, tenho 26 anos e sou natural do Rio de Janeiro. C
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
-    <a href="https://www.youtube.com/@larissakich">
+    <a href="https://www.youtube.com/@PaulaoTIdev">
         <img 
             alt="youtube views" 
             title="Vizualizações no YouTube" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
     </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/PaulaoGeek?tab=stars">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/PaulaoGeek?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
@@ -38,7 +38,22 @@ Me chamo Antonio Paulo Melo Jr, tenho 26 anos e sou natural do Rio de Janeiro. C
 ---
 
 ### 🤖 Linguagens e Tecnologias
-
+<img 
+    align="left" 
+    alt="Java"
+    title="Java" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://jsdelivr.net" 
+/>
+<img 
+    align="left" 
+    alt="Suporte TI"
+    title="Suporte de TI e Redes" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://jsdelivr.net" 
+/>
 <img 
     align="left" 
     alt="HTML"
@@ -62,14 +77,6 @@ Me chamo Antonio Paulo Melo Jr, tenho 26 anos e sou natural do Rio de Janeiro. C
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Java"
-    title="Java" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
 <img 
     align="left" 
