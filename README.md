@@ -5,7 +5,7 @@
 Me chamo Antonio Paulo Melo Jr, tenho 26 anos e sou natural do Rio de Janeiro. Concluío ensino médio na E.E.E.P Governador Waldemar Alcantara, com o curso técnico em Redes de Computadores. Sou fomrado em bacharelado em Sistemas de Informação pela Faculdade Fied Unita de Tiangua, Atualmente, estou cursando Pós-Graduação em Dev Java. Sou apaixonada por tecnologia já trabalho na parte de suporte tecnico em computadores, impressoras e redes de computadores.
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
+    <a href="https://www.youtube.com/@PaulaoTIdev?sub_confirmation=1">
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
@@ -44,7 +44,7 @@ Me chamo Antonio Paulo Melo Jr, tenho 26 anos e sou natural do Rio de Janeiro. C
     title="Java" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://jsdelivr.net" 
+    src="https://shields.io" alt="Java" 
 />
 <img 
     align="left" 
