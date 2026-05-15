@@ -52,7 +52,7 @@ Me chamo Antonio Paulo Melo Jr, tenho 26 anos e sou natural do Rio de Janeiro. C
     title="Suporte de TI e Redes" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://jsdelivr.net" 
+    src="https://shields.io" alt="Java" 
 />
 <img 
     align="left" 
