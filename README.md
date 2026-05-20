@@ -38,82 +38,18 @@ Me chamo Antonio Paulo Melo Jr, tenho 26 anos e sou natural do Rio de Janeiro. C
 ---
 
 ### 🤖 Linguagens e Tecnologias
-<img 
-    align="left" 
-    alt="Java"
-    title="Java" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://shields.io" alt="Java" 
-/>
-<img 
-    align="left" 
-    alt="Suporte TI"
-    title="Suporte de TI e Redes" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://shields.io" alt="Java" 
-/>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<br/>
-<br/>
-
+<div display="inline-block">
+  <img src="https://jsdelivr.net" alt="Java" title="Java" width="40" height="40" />
+  <img src="https://shields.io" alt="Suporte TI" height="40" />
+  <img src="https://jsdelivr.net" alt="HTML5" title="HTML5" width="40" height="40" />
+  <img src="https://jsdelivr.net" alt="CSS3" title="CSS3" width="40" height="40" />
+  <img src="https://jsdelivr.net" alt="JavaScript" title="JavaScript" width="40" height="40" />
+  <img src="https://jsdelivr.net" alt="React" title="React" width="40" height="40" />
+  <img src="https://jsdelivr.net" alt="Bootstrap" title="Bootstrap" width="40" height="40" />
+  <img src="https://jsdelivr.net" alt="PHP" title="PHP" width="40" height="40" />
+  <img src="https://jsdelivr.net" alt="Python" title="Python" width="40" height="40" />
+  <img src="https://jsdelivr.net" alt="MySQL" title="MySQL" width="40" height="40" />
+</div>
 ### 📊 Estatísticas
 
 <p>
