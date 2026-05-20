@@ -1,28 +1,102 @@
-# 👨‍💻 Paulao Melo
+<h1 align="center">👨‍💻 Antonio Paulo Melo Jr</h1>
 
-![Desenvolvedor Iniciante](https://shields.io)
+<h3 align="center">
+Desenvolvedor Backend | Java | JavaScript | Redes | Infraestrutura
+</h3>
 
-Me chamo Antonio Paulo Melo Jr, tenho 26 anos e sou natural do Rio de Janeiro. Concluí o ensino médio na E.E.E.P Governador Waldemar Alcantara, com o curso técnico em Redes de Computadores. Sou formado em bacharelado em Sistemas de Informação pela Faculdade Fied Unita de Tianguá. Atualmente, estou cursando Pós-Graduação em Dev Java. Sou apaixonado por tecnologia e já trabalho na parte de suporte técnico em computadores, impressoras e redes de computadores.
-
----
-
-### 🛠️ Linguagens e Tecnologias
-
-[![Java](https://skillicons.dev)](https://skillicons.dev)
-![Suporte TI](https://shields.io)
-[![HTML5](https://skillicons.dev)](https://skillicons.dev)
-[![CSS3](https://skillicons.dev)](https://skillicons.dev)
-[![JavaScript](https://skillicons.dev)](https://skillicons.dev)
-[![React](https://skillicons.dev)](https://skillicons.dev)
-[![Bootstrap](https://skillicons.dev)](https://skillicons.dev)
-[![PHP](https://skillicons.dev)](https://skillicons.dev)
-[![Python](https://skillicons.dev)](https://skillicons.dev)
-[![MySQL](https://skillicons.dev)](https://skillicons.dev)
+<p align="center">
+Apaixonado por tecnologia, infraestrutura e desenvolvimento de software.
+</p>
 
 ---
 
-### 📊 Estatísticas
+## 🚀 Sobre mim
 
-![Estatísticas do GitHub](https://vercel.app)
+Olá! Me chamo **Antonio Paulo Melo Jr**, sou formado em **Sistemas de Informação** e técnico em **Redes de Computadores**.
 
-![Linguagens mais usadas](https://vercel.app)
+Atualmente curso **Pós-graduação em Desenvolvimento Java** e atuo com:
+
+✔️ Suporte técnico  
+✔️ Manutenção de computadores  
+✔️ Infraestrutura de TI  
+✔️ Redes de computadores  
+✔️ Desenvolvimento Backend  
+
+Tenho interesse em desenvolvimento de software, bancos de dados, segurança da informação e infraestrutura.
+
+---
+
+## 🎓 Formação
+
+🎓 Bacharelado em Sistemas de Informação  
+
+🎓 Técnico em Redes de Computadores  
+
+🎓 Pós-graduação em Desenvolvimento Java *(em andamento)*
+
+---
+
+# 💻 Tecnologias
+
+### Backend
+
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+### Banco de Dados
+
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+### Infraestrutura e Redes
+
+<p>
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+
+</p>
+
+---
+
+## 📊 Estatísticas GitHub
+
+<div align="center">
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=PaulaoGeek&show_icons=true&theme=tokyonight"/>
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulaoGeek&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🌎 Conecte-se comigo
+
+<p>
+<a href="https://www.linkedin.com/in/antonio-paulo-melo-jr-9b1603263/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/PaulaoGeek">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 🚀 Sempre aprendendo novas tecnologias e evoluindo profissionalmente.
+
+</div>
