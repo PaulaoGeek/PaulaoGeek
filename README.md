@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Paulao Melo  
+# 👨‍💻 Paulao Melo  
 
 **`Desenvolvedora Iniciante`**
 
