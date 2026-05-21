@@ -169,11 +169,19 @@ Atualmente desenvolvendo conhecimentos em:
 
 </a>
 
+<a href="https://www.instagram.com/paulaojrr/">
+
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+
+</a>
+
+<a href="https://www.youtube.com/@PaulaoTIdev">
+
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+
+</a>
+
 </p>
-
----
-
-<div align="center">
 
 ### 🚀 Em constante evolução em Desenvolvimento, Dados, Infraestrutura e Tecnologia.
 
