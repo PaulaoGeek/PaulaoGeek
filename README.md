@@ -1,188 +1,110 @@
-<h1 align="center">👨‍💻 Antonio Paulo Melo Jr</h1>
+<div align="center">
+  <h1>Hey, eu sou o Antonio Paulo! 👋</h1>
+  <p><strong>Bacharel em Sistemas de Informação | Técnico em Redes | Dev Java & Análise de Dados</strong></p>
+</div>
 
-<h3 align="center">
-Desenvolvedor Iniciante • Infraestrutura • Dados • Redes • Power BI
-</h3>
-
-<p align="center">
-Apaixonado por tecnologia, desenvolvimento, infraestrutura e análise de dados.
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=openjdk&logoColor=red"/>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow"/>
-
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-
-</p>
+<div align="center">
+  <img src="https://shields.io" alt="Status">
+  <img src="https://shields.io" alt="Localização">
+</div>
 
 ---
 
-# 🚀 Sobre mim
+## 🚀 Sobre Mim
 
-Olá! Me chamo **Antonio Paulo Melo Jr**.
+Olá! Me chamo **Antonio Paulo Melo Jr.** (conhecido no mundo dev como *PaulaoGeek*). Sou um profissional generalista de TI apaixonado por conectar infraestrutura robusta a códigos eficientes e análise de dados estratégica.
 
-🎓 Bacharel em **Sistemas de Informação**  
-🎓 Técnico em **Redes de Computadores**  
-📚 Pós-graduação em **Desenvolvimento Java** *(em andamento)*  
-📊 Estudando **Power BI** para dashboards e análise de dados  
-☁️ Iniciando estudos em **Salesforce**
-
-Atualmente desenvolvendo conhecimentos em:
-
-✔️ Desenvolvimento Backend (iniciante)
-
-✔️ Infraestrutura de TI
-
-✔️ Redes de Computadores
-
-✔️ Banco de Dados
-
-✔️ Desenvolvimento Web
-
-✔️ Power BI e análise de dados
-
-✔️ Suporte Técnico
+- 🎓 **Bacharel** em Sistemas de Informação.
+- 🛠️ **Técnico** em Redes de Computadores.
+- 📚 **Pós-Graduando** em Desenvolvimento Java *(em andamento)*.
+- 📊 **Análise de Dados:** Especializando-me em Power BI para criação de dashboards e relatórios gerenciais inteligentes.
+- ☁️ **Cloud & CRM:** Iniciando estudos práticos no ecossistema Salesforce.
 
 ---
 
-# 💻 Tecnologias & Ferramentas
+## 🛠️ Tecnologias & Ferramentas
 
-### Linguagens
+### 💻 Desenvolvimento & Backend
+✨ *Construindo aplicações robustas, escaláveis e funcionais.*
 
-<p>
+![](https://shields.io)
+![](https://shields.io)
+![](https://shields.io)
+![](https://shields.io)
+![](https://shields.io)
+![](https://shields.io)
 
-<img src="https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=openjdk&logoColor=red"/>
+### 🌐 Infraestrutura, Redes & Cloud
+✨ *Garantindo a estabilidade, segurança e comunicação de ambientes de TI.*
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow"/>
+![](https://shields.io)
+![](https://shields.io)
+![](https://shields.io)
+![](https://shields.io)
 
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+### 📈 Dados & Business Intelligence
+✨ *Transformando dados brutos em decisões gerenciais e insights visuais.*
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
-</p>
-
----
-
-### Banco de Dados
-
-<p>
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-</p>
+![](https://shields.io)
+![](https://shields.io)
 
 ---
 
-### Dados & Business Intelligence
+## 📁 Projetos em Destaque
 
-<p>
+Aqui estão alguns dos projetos práticos que desenvolvi para consolidar meus estudos:
 
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-</p>
-
----
-
-### Cloud / CRM
-
-<p>
-
-<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
-
-</p>
-
----
-
-### Infraestrutura & Redes
-
-<p>
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-
-</p>
-
----
-
-# 🚀 Projetos
-
-### 📈 Power BI
-
-- Dashboards interativos
-- Relatórios gerenciais
-- Indicadores
-- Análise de dados
-
-### 💻 Desenvolvimento
-
-- Aplicações Java
-- Scripts Python
-- HTML, CSS e JavaScript
-- Banco de Dados MySQL
-
-### 🌐 Infraestrutura
-
-- Redes de computadores
-- Administração de sistemas
-- Configuração de ambientes
-- Suporte técnico
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🪙 FinTrack API</h3>
+      <p>API RESTful segura e escalável para controle de finanças pessoais. Desenvolvida em Java com Spring Boot e MySQL, contando com autenticação via tokens JWT.</p>
+      <!-- Se tiver o link de onde o projeto está hospedado, coloque aqui, senão pode deixar sem -->
+      <a href="https://github.com">Ver Repositório ↗</a>
+    </td>
+    <td width="50%">
+      <h3>🖥️ New-Fx-FinTrack</h3>
+      <p>Interface gráfica Desktop moderna atualizada para o ecossistema FinTrack, utilizando JavaFX para os componentes visuais e banco de dados SQLite para persistência ágil.</p>
+      <a href="https://github.com">Ver Repositório ↗</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>📚 Livraria & Empréstimos</h3>
+      <p>Mini-projeto em Java puro focado na aplicação prática e profunda dos pilares fundamentais da Programação Orientada a Objetos: Encapsulamento, Herança e Polimorfismo.</p>
+      <a href="https://github.com">Ver Repositório ↗</a>
+    </td>
+    <td width="50%">
+      <h3>✅ To-Do List Web</h3>
+      <p>Aplicação web para gerenciamento dinâmico de tarefas diárias. Desenvolvida em JavaScript puro para praticar manipulação do DOM e lógica de listas no navegador.</p>
+      <a href="https://github.com">Ver Repositório ↗</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🌎 Conecte-se comigo
+## 📊 Estatísticas do GitHub
 
-<p>
+<div align="center">
+  <img height="180em" src="https://vercel.app" alt="Estatísticas do GitHub de Antonio" />
+  <img height="180em" src="https://vercel.app" alt="Linguagens mais usadas" />
+</div>
 
-<a href="https://www.linkedin.com/in/antonio-paulo-melo-jr-9b1603263/">
+---
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+## 🌎 Vamos nos conectar?
 
-</a>
+Seja para trocar ideias sobre desenvolvimento Java, bater um papo sobre infraestrutura de redes ou discutir dashboards no Power BI, sinta-se à vontade para me chamar!
 
-<a href="https://github.com/PaulaoGeek">
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
-
-<a href="https://www.instagram.com/paulaojrr/">
-
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-
-</a>
-
-<a href="https://www.youtube.com/@PaulaoTIdev">
-
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-
-</a>
-
-</p>
-
-### 🚀 Em constante evolução em Desenvolvimento, Dados, Infraestrutura e Tecnologia.
-
+<div align="left">
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn">
+  </a>
+  <a href="mailto:paulaojrr@hotmail.com" target="_blank">
+    <img src="https://shields.io" alt="Email">
+  </a>
+  <a href="https://twitter.com" target="_blank">
+    <img src="https://shields.io" alt="Twitter">
+  </a>
 </div>
