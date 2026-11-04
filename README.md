@@ -1,256 +1,191 @@
-# 🔴 ANTONIO PAULO MELO JR.
-
+<!-- ======================= CABEÇALHO ANIMADO ======================= -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:550000,100:FF0000&height=200&section=header&text=ANTONIO%20PAULO&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=BACKEND%20DEVELOPER%20%7C%20TECH%20ENTHUSIAST&descAlignY=55&descSize=15"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:650000,100:FF3131&height=230&section=header&text=ANTONIO%20PAULO%20MELO%20JR.&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Java%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20JavaScript%20%E2%80%A2%20React&descAlignY=62&descSize=18" alt="Cabeçalho animado" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=FF3131&center=true&vCenter=true&width=650&lines=%3E+Hello%2C+World!+%F0%9F%91%8B;%3E+Desenvolvedor+em+constante+evolu%C3%A7%C3%A3o;%3E+Java+%7C+Python+%7C+JavaScript;%3E+Transformando+ideias+em+c%C3%B3digo)](https://git.io/typing-svg)
+<a href="https://github.com/PaulaoGeek">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=FF3131&center=true&vCenter=true&width=700&height=50&lines=Ol%C3%A1%2C+seja+bem-vindo(a)+ao+meu+GitHub!+%F0%9F%91%8B;Desenvolvendo+APIs+REST+com+Java+%26+Spring+Boot+%E2%98%95;Criando+interfaces+com+JavaScript+%26+React+%E2%9A%9B%EF%B8%8F;Seguran%C3%A7a+com+JWT+e+bancos+MySQL+%F0%9F%94%90;Construindo+conhecimento+linha+por+linha+%F0%9F%9A%80" alt="Texto animado" />
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-PaulaoGeek-000000?style=for-the-badge&logo=github&logoColor=FF3131)](https://github.com/PaulaoGeek)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-000000?style=for-the-badge&logo=linkedin&logoColor=FF3131)](https://linkedin.com/in/antonio-paulo-melo-jr-9b1603263/)
-[![YouTube](https://img.shields.io/badge/YouTube-Canal-000000?style=for-the-badge&logo=youtube&logoColor=FF3131)](https://www.youtube.com/@PaulaoTIdev)
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/antonio-paulo-melo-jr-9b1603263/"><img src="https://img.shields.io/badge/LinkedIn-Perfil-000000?style=for-the-badge&logo=linkedin&logoColor=FF3131" alt="LinkedIn" /></a>
+<a href="https://www.youtube.com/@PaulaoTIdev"><img src="https://img.shields.io/badge/YouTube-Canal-000000?style=for-the-badge&logo=youtube&logoColor=FF3131" alt="YouTube" /></a>
+<a href="https://www.instagram.com/paulaojrr/"><img src="https://img.shields.io/badge/Instagram-@paulaojrr-000000?style=for-the-badge&logo=instagram&logoColor=FF3131" alt="Instagram" /></a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=PaulaoGeek&label=Visitas&color=ff3131&style=for-the-badge" alt="Visitas" />
+<img src="https://img.shields.io/github/followers/PaulaoGeek?label=Seguidores&style=for-the-badge&logo=github&color=ff3131&labelColor=000000" alt="Seguidores" />
 
 </div>
 
----
+<br/>
 
+<!-- ======================= SOBRE ======================= -->
 ## 🖥️ `whoami`
 
 ```bash
 ┌──(antonio㉿developer)-[~]
 └─$ whoami
-
 Antonio Paulo Melo Jr.
-Backend Developer | Technology Enthusiast
 
 ┌──(antonio㉿developer)-[~]
-└─$ cat about.txt
-
-Apaixonado por tecnologia, programação e inovação.
-Construindo projetos e aprimorando habilidades.
-Sempre buscando novos desafios e conhecimentos.
+└─$ cat perfil.json
+{
+  "formação": ["Bacharelado em Sistemas de Informação", "Técnico em Redes de Computadores"],
+  "cidade": "Ibiapina",
+  "foco": "Desenvolvimento de software com Java e JavaScript",
+  "estudandoAgora": ["Spring Boot", "APIs REST", "React", "Python", "Power BI", "Salesforce"],
+  "objetivo": "Construir soluções completas e crescer na área de desenvolvimento 🚀"
+}
 ```
 
-## 👨‍💻 SOBRE MIM
+Sou formado em **Sistemas de Informação** e **Técnico em Redes de Computadores**. Gosto de desenvolvimento de software, principalmente **back-end com Java**, mas também construo interfaces com **JavaScript e React**, e levo comigo a base de **infraestrutura e redes** na hora de pensar em sistemas.
 
-Olá! Sou Antonio Paulo Melo Jr., profissional em formação na área de tecnologia, Bacharel em Sistemas de Informação e Técnico em Redes de Computadores.
+<br/>
 
-Tenho interesse em desenvolvimento de software, principalmente Backend, programação Java, desenvolvimento web, banco de dados e infraestrutura de TI.
-
-Atualmente, estou aprofundando meus conhecimentos em:
-
-- ☕ Java e Spring Boot
-- 🐍 Python
-- 🌐 JavaScript e React
-- 🗄️ MySQL e SQLite
-- ⚙️ Desenvolvimento de APIs REST
-- 🔐 Spring Security e JWT
-- 📊 Power BI
-- ☁️ Salesforce
-- 🐧 Linux e infraestrutura de redes
-
-🎯 **Objetivo:** desenvolver soluções tecnológicas, construir projetos cada vez mais completos e crescer profissionalmente na área de desenvolvimento de software.
-
----
-
-## ⚡ TECH STACK | TECNOLOGIAS
-
-### 💻 Programming Languages
+<!-- ======================= STACK ======================= -->
+## ⚡ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate,python,js,html,css,react&theme=dark&perline=9" alt="Linguagens e frameworks" />
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,linux,windows,git,github,vscode&theme=dark&perline=8" alt="Bancos de dados e ferramentas" />
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Cisco-000000?style=for-the-badge&logo=cisco&logoColor=FF3131" alt="Cisco" />
+<img src="https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi&logoColor=FF3131" alt="Power BI" />
+<img src="https://img.shields.io/badge/Salesforce-000000?style=for-the-badge&logo=salesforce&logoColor=FF3131" alt="Salesforce" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=FF3131" alt="JWT" />
 
 </div>
 
-### 🌐 Frontend Development
+<br/>
+
+<!-- ======================= PROJETOS ======================= -->
+## 🚀 Projetos em destaque
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/PaulaoGeek/fintrack-api">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=PaulaoGeek&repo=fintrack-api&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF3131&icon_color=FF3131" alt="FinTrack API" />
+      </a>
+      <br/>
+      <sub><b>API REST de finanças pessoais</b><br/>Java 21 • Spring Boot • MySQL • JWT</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/PaulaoGeek/New-Fx-Fintrack-">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=PaulaoGeek&repo=New-Fx-Fintrack-&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF3131&icon_color=FF3131" alt="FinTrack Desktop" />
+      </a>
+      <br/>
+      <sub><b>App desktop de controle financeiro</b><br/>Java • JavaFX • SQLite</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/PaulaoGeek/Mini-Projeto-Livraria-emprestimos-de-Livro">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=PaulaoGeek&repo=Mini-Projeto-Livraria-emprestimos-de-Livro&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF3131&icon_color=FF3131" alt="Livraria POO" />
+      </a>
+      <br/>
+      <sub><b>Empréstimo de livros com POO</b><br/>Java • Encapsulamento, Herança e Polimorfismo</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/PaulaoGeek/Criar-e-Excluir-tarefas">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=PaulaoGeek&repo=Criar-e-Excluir-tarefas&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF3131&icon_color=FF3131" alt="To-Do List Web" />
+      </a>
+      <br/>
+      <sub><b>To-Do List para organizar tarefas</b><br/>JavaScript • HTML • CSS</sub>
+    </td>
+  </tr>
+</table>
+</div>
+
+<details>
+<summary><b>📂 Ver todos os repositórios</b></summary>
+<br/>
+
+👉 [github.com/PaulaoGeek?tab=repositories](https://github.com/PaulaoGeek?tab=repositories)
+
+</details>
+
+<br/>
+
+<!-- ======================= ESTATÍSTICAS ======================= -->
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=PaulaoGeek&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF3131&icon_color=FF3131&text_color=FFFFFF&rank_icon=github" alt="Estatísticas" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulaoGeek&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF3131&text_color=FFFFFF" alt="Linguagens mais usadas" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=PaulaoGeek&theme=dark&hide_border=true&background=0D1117&ring=FF3131&fire=FF0000&currStreakLabel=FF3131" alt="Sequência de contribuições" />
 
 </div>
 
-### ⚙️ Backend Development
+<br/>
+
+## 📈 Gráfico de contribuições
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=spring,maven,hibernate&theme=dark" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PaulaoGeek&bg_color=0D1117&color=FF3131&line=FF0000&point=FFFFFF&area=true&hide_border=true" alt="Gráfico de atividade" />
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/PaulaoGeek/PaulaoGeek/output/github-contribution-grid-snake-dark.svg" alt="Cobrinha das contribuições" />
 
 </div>
 
-### 🗄️ Database
+<br/>
+
+<!-- ======================= TROFÉUS ======================= -->
+## 🏆 Troféus
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres&theme=dark" />
+<img src="https://github-profile-trophy.vercel.app/?username=PaulaoGeek&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" alt="Troféus do GitHub" />
 
 </div>
 
-### 🖥️ Infrastructure & Tools
+<br/>
 
-<div align="center">
+<!-- ======================= ROADMAP ======================= -->
+## 🧭 Meu caminho
 
-<img src="https://skillicons.dev/icons?i=linux,windows,git,github,vscode&theme=dark" />
-
-</div>
-
-<div align="center">
-
-![Cisco](https://img.shields.io/badge/Cisco-000000?style=for-the-badge&logo=cisco&logoColor=FF3131)
-![Power BI](https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi&logoColor=FF3131)
-![Salesforce](https://img.shields.io/badge/Salesforce-000000?style=for-the-badge&logo=salesforce&logoColor=FF3131)
-
-</div>
-
----
-
-## 🚀 PROJETOS EM DESTAQUE
-
-<div align="center">
-
-### 🔴 FINTRACK API
-
-<a href="https://github.com/PaulaoGeek/fintrack-api">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=PaulaoGeek&repo=fintrack-api&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF3131&icon_color=FF3131"/>
-</a>
-
-**API RESTful para gerenciamento de finanças pessoais.**
-
-Java 21 • Spring Boot • MySQL • JWT
-
----
-
-### 💻 FINTRACK DESKTOP
-
-<a href="https://github.com/PaulaoGeek/New-Fx-Fintrack-">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=PaulaoGeek&repo=New-Fx-Fintrack-&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF3131&icon_color=FF3131"/>
-</a>
-
-**Aplicação desktop de controle financeiro.**
-
-Java • JavaFX • SQLite
-
----
-
-### 📚 LIVRARIA POO
-
-<a href="https://github.com/PaulaoGeek/Mini-Projeto-Livraria-emprestimos-de-Livro">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=PaulaoGeek&repo=Mini-Projeto-Livraria-emprestimos-de-Livro&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF3131&icon_color=FF3131"/>
-</a>
-
-**Sistema de empréstimos de livros utilizando Programação Orientada a Objetos.**
-
-Java • POO
-
----
-
-### ✅ TO-DO LIST WEB
-
-<a href="https://github.com/PaulaoGeek/Criar-e-Excluir-tarefas">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=PaulaoGeek&repo=Criar-e-Excluir-tarefas&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF3131&icon_color=FF3131"/>
-</a>
-
-**Aplicação web para gerenciamento e organização de tarefas.**
-
-JavaScript • HTML • CSS
-
-</div>
-
----
-
-## 📊 GITHUB ANALYTICS
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=PaulaoGeek&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF3131&icon_color=FF3131&text_color=FFFFFF&rank_icon=github"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulaoGeek&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF3131&text_color=FFFFFF"/>
-
-</div>
-
-<div align="center">
-
-<img width="75%" src="https://streak-stats.demolab.com?user=PaulaoGeek&theme=dark&hide_border=true&background=0D1117&ring=FF3131&fire=FF0000&currStreakLabel=FF3131"/>
-
-</div>
-
----
-
-## 🏆 GITHUB TROPHIES
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=PaulaoGeek&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6"/>
-
-</div>
-
----
-
-## 📈 CONTRIBUTION GRAPH
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=PaulaoGeek&bg_color=0D1117&color=FF3131&line=FF0000&point=FFFFFF&area=true&hide_border=true"/>
-
-</div>
-
----
-
-## 🐍 CONTRIBUTION SNAKE
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/PaulaoGeek/PaulaoGeek/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake"/>
-
-</div>
-
----
-
-## 🎯 CURRENT FOCUS
-
-```bash
-[+] Java & Spring Boot
-[+] Desenvolvimento de APIs REST
-[+] JavaScript & React
-[+] Python
-[+] MySQL & Banco de Dados
-[+] Infraestrutura de Redes
-[+] Power BI & Salesforce
+```mermaid
+timeline
+    title Jornada em tecnologia
+    Base : Redes de Computadores : Infraestrutura e Linux
+    Graduação : Sistemas de Informação : Java e POO
+    Projetos : FinTrack API e Desktop : To-Do List Web
+    Agora : Spring Boot, JWT e React : Python, Power BI e Salesforce
+    Próximo : Projetos full stack completos
 ```
 
----
+<br/>
 
-## 📡 CONNECT WITH ME
+<!-- ======================= CONTATO / RODAPÉ ======================= -->
+## 📡 Vamos conversar?
 
-<div align="center">
-
-<a href="https://github.com/PaulaoGeek">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF3131"/>
-</a>
-
-<a href="https://linkedin.com/in/antonio-paulo-melo-jr-9b1603263/">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF3131"/>
-</a>
-
-<a href="https://www.youtube.com/@PaulaoTIdev">
-<img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=FF3131"/>
-</a>
-
-<a href="https://www.instagram.com/paulaojrr/">
-<img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF3131"/>
-</a>
-
-</div>
-
----
+Se curtiu algum projeto, quer trocar ideia sobre tecnologia ou tem uma oportunidade, é só chamar!
 
 <div align="center">
 
-### 🔴 `while(alive) { keepLearning(); keepCoding(); }`
+<a href="https://www.linkedin.com/in/antonio-paulo-melo-jr-9b1603263/"><img src="https://img.shields.io/badge/Falar_no_LinkedIn-FF3131?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.youtube.com/@PaulaoTIdev"><img src="https://img.shields.io/badge/Ver_o_canal-000000?style=for-the-badge&logo=youtube&logoColor=FF3131" alt="YouTube" /></a>
 
-**"O conhecimento é construído linha por linha."**
+<br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,50:650000,100:000000&height=120&section=footer"/>
+### 🔴 `while (alive) { keepLearning(); keepCoding(); }`
+
+*"O conhecimento é construído linha por linha."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF3131,50:650000,100:000000&height=120&section=footer" alt="Rodapé animado" />
 
 </div>
