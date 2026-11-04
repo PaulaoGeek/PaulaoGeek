@@ -1,39 +1,33 @@
 <div align="center">
-  <h1>Hey, eu sou o Antonio Paulo! 👋</h1>
-  <p><strong>Bacharel em Sistemas de Informação | Técnico em Redes | Dev Java & Análise de Dados</strong></p>
-  <img src="https://shields.io" alt="Status">
-  <img src="https://shields.io" alt="Localização">
+  <img src="https://vercel.app" alt="Banner Animado" />
+  <a href="https://github.com">
+    <img src="https://herokuapp.com" alt="Efeito Digitação" />
+  </a>
+  <p>👋 Bem-vindo ao meu portfólio no GitHub! Apaixonado por desenvolvimento, infraestrutura e análise de dados.</p>
 </div>
 
 ---
 
 ## 🚀 Sobre Mim
-Olá! Me chamo **Antonio Paulo Melo Jr.** (*PaulaoGeek*), Bacharel em Sistemas de Informação, Técnico em Redes, pós-graduando em Desenvolvimento Java e especialista em formação com foco em Power BI e Salesforce.
-
----
+* 🎓 **Bacharel** em Sistemas de Informação | 🛠️ **Técnico** em Redes | 📚 **Pós-graduando** em Java | 📊 **Power BI** | ☁️ **Salesforce**
 
 ## 🛠️ Tecnologias & Ferramentas
-* **Backend & Dev:** Java, Spring Boot, JavaScript, Python, MySQL, SQLite.
-* **Infraestrutura & Cloud:** Redes de Computadores, Linux, Salesforce, Suporte Técnico.
-* **Dados & BI:** Power BI, Análise de Dados.
-
----
+* **Backend/Web:** Java, JavaScript, Python, Spring Boot, JavaFX, MySQL, SQLite
+* **Infraestrutura:** Redes de Computadores, Linux/Windows, Suporte Técnico
+* **Dados & Cloud:** Power BI, Salesforce
 
 ## 📁 Projetos em Destaque
-* **FinTrack API:** API RESTful de controle financeiro em Java com Spring Boot, MySQL e JWT.
-* **New-Fx-FinTrack:** Interface desktop em JavaFX com persistência em SQLite.
-* **Livraria & Empréstimos:** Aplicação em Java puro focada em POO (Herança, Encapsulamento, Polimorfismo).
-* **To-Do List Web:** Gerenciador de tarefas dinâmico em JavaScript puro.
+* **FinTrack API:** API RESTful em Spring Boot (Java 21) com MySQL e JWT.
+* **New-Fx-FinTrack:** Aplicação Desktop em JavaFX e SQLite.
+* **Livraria POO:** Projeto prático em Java puro aplicando POO.
+* **To-Do List Web:** Gerenciador de tarefas em JavaScript (Geração Tech).
 
----
-
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas & Conexões
 <div align="center">
-  <img height="180em" src="https://vercel.app" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://vercel.app" alt="Linguagens mais usadas" />
+  <img src="https://herokuapp.com" alt="Streak" />
+  <img src="https://vercel.app" alt="Linguagens" />
+  <br><br>
+  <a href="https://linkedin.com"><img src="https://shields.io" /></a>
+  <a href="mailto:paulaojrr@hotmail.com"><img src="https://shields.io" /></a>
+  <a href="https://twitter.com"><img src="https://shields.io" /></a>
 </div>
-
----
-
-## 🌎 Vamos nos conectar?
-LinkedIn, E-mail e Twitter disponíveis no seu perfil.
